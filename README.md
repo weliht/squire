@@ -1,3 +1,3 @@
 # Squire
 
-Personal toolkit that implements base algorithms and data structures.
+Personal golang toolkit that implements base algorithms and data structures.
